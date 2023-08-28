@@ -26,4 +26,4 @@ class TestGreedy(unittest.TestCase):
     
     def test_find_prims(self):
         self.assertEqual(find_prime("17"), 3)
-        self.assertEqual(find_prime("011"), 2)        
+        self.assertEqual(find_prime("011"), 2)       
